@@ -1,0 +1,6 @@
+{
+  "name": "VedaFinance - Premium Personal Loans & Instant Digital Approvals",
+  "description": "Production-grade personal loan platform with transparent interest rates from 10.49% p.a., interactive EMI calculator, instant eligibility check, and seamless 5-minute digital application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
